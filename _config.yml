@@ -8,13 +8,6 @@ middle_name: Mari
 last_name: Vermeulen
 description: >
   I look at plants from space as a postdoctoral researcher at the Max Planck Institute for Biogeochemistry. 
-email: lvermeulen@bgc-jena.mpg.de
-github_username: LiezlVermeulen
-linkedin_username: liezl-vermeuln
-scholar_userid: "kMbYiIwAAAAJ"      # the part after user= in your Scholar URL
-orcid_id: "0000-0001-8541-8905"
-#twitter_username: your-x-handle                # leave blank/remove if unused
-#bluesky_username: your-bsky-handle             # leave blank/remove if unused
 url: https://LiezlVermeulen.github.io # the base hostname & protocol for your site
 baseurl: 
 last_updated: false # set to true if you want to display last updated in the footer
